@@ -1,17 +1,39 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Data Science & Business Management Student, Beloit College, WI
+  from: 2022
+  to: Present
+  description: Maintaining a 3.79 GPA with an in-progress Honors Thesis in Economics and recognition as a Presidential Scholar. 
+               Developed strong analytical and technical foundations through coursework in SQL, Data Mining, Data Structures 
+               and Algorithms, Data Visualization, and Statistics.
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Exchange Student, University of York (UK)
+  from: 2024
+  to: 2025
+  description: Completed a Fall term at a Top 20 UK university, expanding global analytical and academic perspectives.
+
+- title: HR & Operations Analyst Intern, Stateline Boys & Girls Clubs
+  from: 2025
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Led HR process improvements by redesigning evaluation templates and intake
+               forms, reducing rework by 30%. Facilitated weekly meetings with six program
+               directors to identify operational gaps and clarify HR requirements.
+               Strengthened recruitment by benchmarking digital channels and generating
+               over fifty qualified candidates.
+
+- title: Business Analyst Intern, Belmark Associates
+  from: May 2025
+  to: July 2025
+  description: Enhanced housing market datasets by restructuring over three hundred survey
+               responses, increasing completeness by 35%. Analyzed affordability metrics,
+               neighborhood pricing trends, and cost-burden ratios to surface key demand
+               drivers. Developed client-ready BI reports by synthesizing more than twenty
+               demand indicators to support ACTS Housing’s strategic planning.
+
+- title: Asset Data Management Intern, Beloit College Facilities Department
+  from: 2024
+  to: present
+  description: Improved monthly utility reporting by 60% through streamlined Excel
+               workflows and structured consumption analysis. Rebuilt a dataset of more
+               than two thousand campus assets to strengthen data integrity for automated
+               KPI dashboards. Presented insights from seven hundred-plus
+               room-condition and cost-impact datasets to the Board of Trustees to inform
+               long-term funding and Net Zero initiatives.
